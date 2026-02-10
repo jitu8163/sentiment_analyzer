@@ -1,0 +1,17 @@
+sentiment_analyzer/
+│
+├── data/
+│   └── reviews.csv
+│
+├── training/
+│   ├── train.py
+│   └── preprocess.py
+│
+├── app/
+│   ├── main.py
+│   ├── model.py
+│   └── schemas.py
+│
+├── sentiment_model/        # saved after training
+│
+└── requirements.txt
